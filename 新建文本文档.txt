@@ -1,0 +1,1 @@
+package.json  所有的插件的版本号
